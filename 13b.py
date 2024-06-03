@@ -22,6 +22,7 @@ while True:
     address = input('Enter location: ')
     if len(address) < 1: break
     # Just for Git course
+    # One more time
     parms = dict()
     parms['address'] = address
     if api_key is not False: parms['key'] = api_key

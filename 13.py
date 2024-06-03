@@ -26,3 +26,4 @@ while True:
     for item in results:
         count = count + int(item.find('count').text)
     print('Sum:', count)
+    print('Hello from Git!')
