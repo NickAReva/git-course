@@ -13,7 +13,7 @@ if api_key is False:
 else :
     serviceurl = 'https://maps.googleapis.com/maps/api/geocode/json?'
 
-# Ignore SSL certificate errors
+# Ignore SSL certificate errors and
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
