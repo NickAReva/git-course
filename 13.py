@@ -8,7 +8,7 @@ ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
 def SayHi():
-    print('Hello from GIT!')
+    print('Hey Pal! Hello from GIT!')
 
 while True:
     address = input('Enter location: ')
