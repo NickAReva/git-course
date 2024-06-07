@@ -7,7 +7,15 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
+<<<<<<< HEAD
 # Detached HEAD
+=======
+def SayHi():
+    print('Hello from GIT my friends!!!')
+
+def SayBye():
+    print('Bye Bye!')
+>>>>>>> fix
 
 while True:
     address = input('Enter location: ')
@@ -28,3 +36,4 @@ while True:
     for item in results:
         count = count + int(item.find('count').text)
     print('Sum:', count)
+    print('Hello from Git!')
