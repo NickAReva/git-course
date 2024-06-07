@@ -8,7 +8,7 @@ ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
 <<<<<<< HEAD
-# Detached HEAD
+# Detached HEAD is reattached again
 =======
 def SayHi():
     print('Hello from GIT my friends!!!')
