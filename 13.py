@@ -14,7 +14,7 @@ def SayHi():
     print('Hello from GIT my friends!!!')
 
 def SayBye():
-    print('Bye Bye!')
+    print('Bye Bye, my friends!')
 >>>>>>> fix
 
 while True:
