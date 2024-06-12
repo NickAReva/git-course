@@ -2,4 +2,4 @@ Hello GIT!
 
 Let's try reset function!
 
-I write some words
+I write some words, hey!
