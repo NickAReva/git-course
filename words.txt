@@ -3,3 +3,5 @@ Hello GIT!
 Let's try reset function!
 
 I write some words, hey!
+
+I try to change this file from new directory.
